@@ -3,12 +3,25 @@
 # Follow the format, change logs will be in ascending order (Current date would be near the top)
 
 -- 11/11/2025 -- T.M
+- Added looped backround music to the game
+- Incresed intermission time to 30 seconds from 10 seconds
+- Added a wait time before cloned map is destroyed
+- Put new assets into server storage for later use (Houses, trees, moutain mesh, weapons)
+- Fixed game loop script error
+
+- Deleted House Map
+
+- Made Edits to Desert Map
+- Added dirt path
+- Added houses
+
 - Volcano map Complete (May still add lava liquid terrain)
 - Lava map is now Volcano map
 - Added texture to lava floor
 - Added kill script when touching lava
 - changed border to mountain terrain
 - added lighting
+- added lava audio
 
 -- 11/4/2025 -- T.M
 
@@ -16,7 +29,7 @@
 - Created Base for maps (To be edited later)
 - Fixed Lava Object so it now kills the player
 - Added Collaborator Permissions 
--
+
 
 
 

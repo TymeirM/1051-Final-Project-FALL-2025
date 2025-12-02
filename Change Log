@@ -2,6 +2,9 @@
 # Each Log Should be marked by Initials to track whose work is whose
 # Follow the format, change logs will be in ascending order (Current date would be near the top)
 
+-- 12/2/25 -- T.M
+-- Continued Creation of train staion map 90% Complete
+
 -- 12/1/2025 -- T.M 
 - Created Local Script and Client script to handle muisc chaning depending on map selection
 - Began Creating New Train Map

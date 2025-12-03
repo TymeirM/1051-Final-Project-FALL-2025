@@ -3,21 +3,21 @@
 # Follow the format, change logs will be in ascending order (Current date would be near the top)
 
 -- 12/2/25 -- T.M
--- Continued Creation of train staion map 90% Complete
+-- train station map Complete
 
 -- 12/1/2025 -- T.M 
-- Created Local Script and Client script to handle muisc chaning depending on map selection
+- Created Local Script and Client script to handle music changing depending on map selection
 - Began Creating New Train Map
 - Added Border to Desert Map
-- Desert Map Is complete
+- Desert Map is complete
 - Started Working on Spring Script and Animations 
 - Added Smoke effect to Volcano Lava
 
 -- 11/11/2025 -- T.M
-- Added looped backround music to the game
-- Incresed intermission time to 30 seconds from 10 seconds
-- Added a wait time before cloned map is destroyed
-- Put new assets into server storage for later use (Houses, trees, moutain mesh, weapons)
+- Added looped background music to the game
+- Increased intermission time to 30 seconds from 10 seconds
+- Added a wait time before the cloned map is destroyed
+- Put new assets into server storage for later use (Houses, trees, mountain mesh, weapons)
 - Fixed game loop script error
 
 - Deleted House Map
